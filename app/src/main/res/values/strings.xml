@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">WiFi File Transfer</string>
+	<string name="serverOffline">Server offline</string>
+	<string name="noActiveConnection">No Active Connection!</string>
+	<string name="pleaseConnectToWiFiFirst">Connect to WiFi First!</string>
+	<string name="typeInBrowser">Go to Browser and Type:</string>
+	<string name="stop">Stop Server</string>
+	<string name="run">Run Server</string>
+</resources>
